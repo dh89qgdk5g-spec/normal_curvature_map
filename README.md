@@ -1,5 +1,11 @@
 # NORMAL CURVATURE MAP
 
+
+<p align="center">
+  <img src="Reference.jpg" width="600">
+</p>
+
+
 ## WIKI:
 https://deepwiki.com/dh89qgdk5g-spec/normal_curvature_map/5.2-curvature-algorithm
 
